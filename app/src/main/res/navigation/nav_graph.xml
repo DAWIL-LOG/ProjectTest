@@ -3,22 +3,31 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/nav_graph"
-    app:startDestination="@id/splashScreenFragment2">
+    app:startDestination="@id/splashScreenFragment">
 
     <fragment
-        android:id="@+id/splashScreenFragment2"
+        android:id="@+id/splashScreenFragment"
         android:name="com.dawil.testapp.SplashScreenFragment"
         android:label="fragment_splash_screen"
         tools:layout="@layout/fragment_splash_screen" >
         <action
-            android:id="@+id/action_splashScreenFragment2_to_onBoarding"
+            android:id="@+id/action_splashScreenFragment_to_onBoarding"
             app:destination="@id/onBoarding" />
     </fragment>
 
     <fragment
         android:id="@+id/onBoarding"
-        android:name="com.dawil.testapp.OnBoarding"
+        android:name="com.dawil.testapp.OnBoardingFragment"
         android:label="fragment_on_boarding"
-        tools:layout="@layout/fragment_on_boarding" />
+        tools:layout="@layout/fragment_on_boarding" >
+        <action
+            android:id="@+id/action_onBoarding_to_loginFragment"
+            app:destination="@id/loginFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.dawil.testapp.LoginFragment"
+        android:label="fragment_login"
+        tools:layout="@layout/fragment_login" />
 
 </navigation>

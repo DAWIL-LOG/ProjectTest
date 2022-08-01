@@ -39,7 +39,7 @@ public class SplashScreenFragment extends Fragment {
         (new Handler()).postDelayed(new Runnable() {
             @Override
             public void run() {
-                navController.navigate(R.id.action_splashScreenFragment2_to_onBoarding);
+                navController.navigate(R.id.action_splashScreenFragment_to_onBoarding);
             }
         }, 3000);
     }

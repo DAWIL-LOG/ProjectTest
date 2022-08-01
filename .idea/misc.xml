@@ -3,9 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/TCHONANG/IntelliJIDEAProjects/TestApp/app/src/main/res/drawable/bg_login.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/TCHONANG/IntelliJIDEAProjects/TestApp/app/src/main/res/drawable/footer_login.xml" value="0.19166666666666668" />
         <entry key="..\:/Users/TCHONANG/IntelliJIDEAProjects/TestApp/app/src/main/res/font/a.xml" value="0.2046875" />
         <entry key="..\:/Users/TCHONANG/IntelliJIDEAProjects/TestApp/app/src/main/res/layout/activity_main.xml" value="0.11911231884057971" />
         <entry key="..\:/Users/TCHONANG/IntelliJIDEAProjects/TestApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/TCHONANG/IntelliJIDEAProjects/TestApp/app/src/main/res/layout/fragment_login.xml" value="0.16666666666666666" />
         <entry key="..\:/Users/TCHONANG/IntelliJIDEAProjects/TestApp/app/src/main/res/layout/fragment_on_boarding.xml" value="0.14402173913043478" />
         <entry key="..\:/Users/TCHONANG/IntelliJIDEAProjects/TestApp/app/src/main/res/layout/fragment_splash_screen.xml" value="0.1" />
         <entry key="..\:/Users/TCHONANG/IntelliJIDEAProjects/TestApp/app/src/main/res/layout/slider_layout.xml" value="0.14402173913043478" />

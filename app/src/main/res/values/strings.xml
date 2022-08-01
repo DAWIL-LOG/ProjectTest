@@ -4,6 +4,8 @@
     <string name="skip">Skip</string>
     <string name="back">Back</string>
     <string name="next">Next</string>
+    <string name="login">Se Connecter</string>
+    <string name="forget_pwd_txt">Mot de passe oublié</string>
 
 
     <string name="hello_blank_fragment">Hello blank fragment</string>
@@ -14,9 +16,9 @@
     <string name="heading_fourth">Pay Anywhere</string>
 
     //Description
-    <string name="desc_one">Grow your Business By Accepting Card Payments with The New Card Reader</string>
-    <string name="desc_two">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
-    <string name="desc_three">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
-    <string name="desc_fourth">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="desc_one">Payement rapide</string>
+    <string name="desc_two">Notification instantanée, fiable, présentable, Concis </string>
+    <string name="desc_three">Les payements se font en ligne et rétirable en cash</string>
+    <string name="desc_fourth">Les transactions se font à tous moments 24h/24 7j/7</string>
 
 </resources>
