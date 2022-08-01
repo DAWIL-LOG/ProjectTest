@@ -6,6 +6,7 @@
     <string name="next">Next</string>
     <string name="login">Se Connecter</string>
     <string name="forget_pwd_txt">Mot de passe oublié</string>
+    <string name="Err_login">Username or Password is Incorrect</string>
 
 
     <string name="hello_blank_fragment">Hello blank fragment</string>

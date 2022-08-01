@@ -12,4 +12,5 @@
     <color name="active">#80DEEA</color>
     <color name="blue">#90CAF9</color>
     <color name="teal_100">#80CBC4</color>
+    <color name="red">#FF0000</color>
 </resources>

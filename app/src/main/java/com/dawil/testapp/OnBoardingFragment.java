@@ -83,7 +83,7 @@ public class OnBoardingFragment extends Fragment {
                         .textTypeface(Typeface.MONOSPACE)
                         .dimColor(R.color.black)
                         .drawShadow(true)
-                        .cancelable(false)
+                        .cancelable(true)
                         .tintTarget(true)
                         .transparentTarget(true)
                         .targetRadius(40),
@@ -99,7 +99,7 @@ public class OnBoardingFragment extends Fragment {
                         .textTypeface(Typeface.MONOSPACE)
                         .dimColor(R.color.black)
                         .drawShadow(true)
-                        .cancelable(false)
+                        .cancelable(true)
                         .tintTarget(true)
                         .transparentTarget(true)
                         .targetRadius(40),
@@ -115,7 +115,7 @@ public class OnBoardingFragment extends Fragment {
                         .textTypeface(Typeface.MONOSPACE)
                         .dimColor(R.color.black)
                         .drawShadow(true)
-                        .cancelable(false)
+                        .cancelable(true)
                         .tintTarget(true)
                         .transparentTarget(true)
                         .targetRadius(40)
