@@ -52,7 +52,7 @@ public class LoginFragment extends Fragment implements View.OnClickListener {
         String userName = txtUser.getText().toString();
         String passWord = txtPassword.getText().toString();
 
-        if (userName == "Admin" && passWord == "Admin"){
+        if (userName.equals("Admin") && passWord.equals("Admin")){
             navController.navigate(R.id.action_loginFragment_to_homeFragment);
         }else {
             txtErr.setText(R.string.Err_login);
